@@ -1,0 +1,81 @@
+File Name,Object Column,Subject Column,Qualifier Column,Property ID,Property Label,Property Qualifier ID,Property Qualifier Label
+table_1.csv,2,0,3,1411,nominated for,1686,for work
+table_2.csv,3,0,2,1411,nominated for,2453,nominee
+table_3.csv,2,0,3,1411,nominated for,2453,nominee
+table_4.csv,5,0,6,166,award received,54,member of sports team
+table_5.csv,5,4,2,1346,winner,17,country
+table_6.csv,2,0,3,1411,nominated for,2453,nominee
+table_7.csv,2,0,3,1411,nominated for,1686,for work
+table_8.csv,3,0,2,1411,nominated for,2453,nominee
+table_9.csv,0,2,3,1346,winner,1686,for work
+table_10.csv,3,0,2,1411,nominated for,2453,nominee
+table_11.csv,2,0,3,166,award received,54,member of sports team
+table_12.csv,6,4,5,159,headquarters location,17,country
+table_13.csv,2,0,3,1411,nominated for,1686,for work
+table_14.csv,2,0,1,1411,nominated for,805,statement is subject of
+table_15.csv,6,3,5,726,candidate,102,member of political party
+table_16.csv,2,0,3,1411,nominated for,1686,for work
+table_17.csv,0,1,3,197,adjacent station,81,connecting line
+table_18.csv,2,0,3,1411,nominated for,2453,nominee
+table_19.csv,3,0,2,1411,nominated for,2453,nominee
+table_20.csv,1,0,3,197,adjacent station,81,connecting line
+table_21.csv,2,4,0,1411,nominated for,2453,nominee
+table_22.csv,3,0,2,1411,nominated for,1686,for work
+table_23.csv,1,0,3,1411,nominated for,1686,for work
+table_24.csv,2,0,3,1411,nominated for,2453,nominee
+table_25.csv,2,0,3,1411,nominated for,1686,for work
+table_26.csv,0,4,2,1411,nominated for,1686,for work
+table_27.csv,0,2,4,1346,winner,1686,for work
+table_28.csv,3,0,2,1411,nominated for,2453,nominee
+table_29.csv,7,8,4,726,candidate,6149,running mate
+table_30.csv,7,8,6,726,candidate,102,member of political party
+table_31.csv,3,0,2,1411,nominated for,1686,for work
+table_32.csv,3,0,2,1411,nominated for,1686,for work
+table_33.csv,2,0,3,1411,nominated for,1686,for work
+table_34.csv,2,0,3,1411,nominated for,2453,nominee
+table_35.csv,2,0,3,1411,nominated for,1686,for work
+table_36.csv,6,3,7,726,candidate,6149,running mate
+table_37.csv,2,0,3,1411,nominated for,2453,nominee
+table_38.csv,0,2,3,1346,winner,1686,for work
+table_39.csv,0,2,1,81,connecting line,137,operator
+table_40.csv,3,0,2,1411,nominated for,2453,nominee
+table_41.csv,3,0,2,1411,nominated for,2453,nominee
+table_42.csv,0,2,3,1346,winner,1686,for work
+table_43.csv,3,0,2,1411,nominated for,2453,nominee
+table_44.csv,2,0,3,1411,nominated for,1686,for work
+table_45.csv,2,0,3,1411,nominated for,1686,for work
+table_46.csv,3,0,1,1411,nominated for,805,statement is subject of
+table_47.csv,2,0,3,1411,nominated for,1686,for work
+table_48.csv,2,0,3,1411,nominated for,1686,for work
+table_49.csv,2,0,3,1411,nominated for,1686,for work
+table_50.csv,2,0,3,1411,nominated for,1686,for work
+table_51.csv,2,0,3,1411,nominated for,2453,nominee
+table_52.csv,3,0,1,1411,nominated for,805,statement is subject of
+table_53.csv,2,0,3,1411,nominated for,2453,nominee
+table_54.csv,2,0,3,1411,nominated for,2453,nominee
+table_55.csv,3,0,2,1411,nominated for,2453,nominee
+table_56.csv,3,0,2,1411,nominated for,2453,nominee
+table_57.csv,3,0,2,1411,nominated for,1686,for work
+table_58.csv,2,4,0,1411,nominated for,2453,nominee
+table_59.csv,6,2,4,115,home venue,131,located in the administrative territorial entity
+table_60.csv,3,0,2,1411,nominated for,1686,for work
+table_61.csv,0,4,2,1411,nominated for,1686,for work
+table_62.csv,2,0,3,1411,nominated for,2453,nominee
+table_63.csv,3,0,2,1411,nominated for,2453,nominee
+table_64.csv,3,0,2,1411,nominated for,2453,nominee
+table_65.csv,6,2,5,115,home venue,17,country
+table_66.csv,3,0,2,1411,nominated for,1686,for work
+table_67.csv,3,0,2,1411,nominated for,1686,for work
+table_68.csv,3,0,2,1411,nominated for,2453,nominee
+table_69.csv,3,0,2,1411,nominated for,1686,for work
+table_70.csv,3,0,2,1411,nominated for,1686,for work
+table_71.csv,3,0,8,39,position held,748,appointed by
+table_72.csv,3,0,2,1411,nominated for,1686,for work
+table_73.csv,2,0,3,166,award received,27,country of citizenship
+table_74.csv,3,2,4,161,cast member,453,character role
+table_75.csv,2,0,3,1411,nominated for,1686,for work
+table_76.csv,3,0,2,1411,nominated for,2453,nominee
+table_77.csv,3,0,2,1411,nominated for,2453,nominee
+table_78.csv,2,0,3,1411,nominated for,1686,for work
+table_79.csv,2,0,3,1411,nominated for,2453,nominee
+table_80.csv,3,0,2,1411,nominated for,1686,for work

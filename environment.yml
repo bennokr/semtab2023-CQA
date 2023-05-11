@@ -1,0 +1,12 @@
+channels:
+  - conda-forge
+  - anaconda
+dependencies:
+  - ipykernel>=6
+  - jupyterlab
+  - pip
+  - pip:
+    - jupyter_contrib_nbextensions
+    - jupyterlab-link-share
+    - rdflib
+    - wikimapper
