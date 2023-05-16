@@ -1,4 +1,4 @@
-File Name,Object Column,Subject Column,Qualifier Column,Property ID,Property Label,Property Qualifier ID,Property Qualifier Label
+File Name,Subject Column,Object Column,Qualifier Column,Property ID,Property Label,Property Qualifier ID,Property Qualifier Label
 table_1.csv,2,0,3,,,,
 table_2.csv,3,0,2,,,,
 table_3.csv,2,0,3,,,,
