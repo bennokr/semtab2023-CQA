@@ -1,4 +1,5 @@
-# semtab2023-CQA [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bennokr/semtab2023-CQA/HEAD)
+# semtab2023-CQA [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/bennokr/semtab2023-CQA/HEAD) [![DOI](https://zenodo.org/badge/639291244.svg)](https://zenodo.org/badge/latestdoi/639291244)
+
 Column-Qualifier Annotation (CQA) task at SemTab @ ISWC2023
 
 ## Task description
